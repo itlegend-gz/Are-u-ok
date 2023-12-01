@@ -24,7 +24,19 @@
 | NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/NPS_a53.run) |
 | MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/MosDNS-New_a53.run) |
 
-#### 如何安装，下载后，iStore手动安装，选择文件安装即可。
+* 如何安装
+下载后，来到iStore应用商店页面，点击手动安装，点击选择上传或者直接拖放文件
+![png](https://cdn.jsdelivr.net/gh/bcseputetto/Are-u-ok@master/apps/install.png)
 
-![png](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/install.png)
-
+对于没有iStore应用商店的OpenWrt也可以使用以下方法。
+将 .run 文件上传到路由器上，然后在终端环境执行
+```console
+sh 包名.run
+```
+例
+```console
+sh PassWall_4.71-2_aarch64_a53_all_sdk_22.03.5.run
+```
+如果文件不在当前路径记得填写路径，下例
+```console
+sh /tmp/upload/PassWall_4.71-2_aarch64_a53_all_sdk_22.03.5.run

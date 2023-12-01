@@ -9,7 +9,7 @@
 * 一系列离线包：
 
 |插件名|功能|下载|
-| :----: | :----: | :----: | |
+| :----: | :----: | :----: |
 | ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/ByPass_a53.run) |
 | VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/VSSR_a53.run) |
 | AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/AdGuardHome_a53.run) |

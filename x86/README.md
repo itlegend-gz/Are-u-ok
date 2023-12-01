@@ -8,11 +8,11 @@
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/VSSR_x86.run) |
-| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/ByPass_x86.run) |
-| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all//ikoolproxy_x86.run) |
-| adblock | adblock去广告 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/adblock_x86.run) |
-| adbyby | adbyby去广告 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/adbyby_x86.run) |
+| VSSR | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/VSSR_x86.run) |
+| ByPass | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/ByPass_x86.run) |
+| ikoolproxy | koolproxy拦截广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all//ikoolproxy_x86.run) |
+| Adblock | Adblock 拦截广告 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/adblock_x86.run) |
+| Adbyby | 广告屏蔽大师 Plus+ | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/adbyby_x86.run) |
 | AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/AdGuardHome_x86.run) |
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/UnblockNeteaseMusic_x86.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/KMS_x86.run) |

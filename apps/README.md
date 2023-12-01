@@ -10,11 +10,11 @@
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/ByPass_a53.run) |
-| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/VSSR_a53.run) |
-| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/AdGuardHome_a53.run) |
-| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
-| Adblock | Adblock 去广告 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/adblock.run) |
+| ByPass | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/ByPass_a53.run) |
+| VSSR | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/VSSR_a53.run) |
+| AdGuardHome | luci-app-AdGuardHome(DNS+广告拦截) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/AdGuardHome_a53.run) |
+| ikoolproxy | koolproxy拦截广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
+| Adblock | Adblock 拦截广告 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/adblock.run) |
 | Adbyby | 广告屏蔽大师 Plus+ | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/adbyby_a53.run) |
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/UnblockNeteaseMusic_a53.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/main/apps/all/OpenVPN_20211018.run) |

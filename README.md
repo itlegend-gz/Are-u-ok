@@ -1,6 +1,11 @@
-## 随便玩玩
+## iStore软件包 iStore .run Packages
 
-#### iStore插件包
+#### 常用梯子插件 Commonly Used Proxy Software Packages
+
+* [请到releases下载](https://github.com/bcseputetto/Are-u-ok/releases/tag/iStoreOS)
+
+
+#### 其它软件包 Other Packages
 
 * [aarch64_cortex-a53平台](./apps/README.md)
 

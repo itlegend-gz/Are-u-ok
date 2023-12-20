@@ -6,7 +6,7 @@
 
 * 一系列软件包：
 
-|软件名|功能|下载|
+|插件名|功能|下载|
 | :----: | :----: | :----: |
 | VSSR | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/VSSR_x86.run) |
 | ByPass | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/ByPass_x86.run) |

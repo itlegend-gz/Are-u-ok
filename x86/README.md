@@ -1,12 +1,12 @@
-#### iStore扩展插件包
+#### iStore .run 软件包
 
-* 本页面所下载的离线包插件仅适用于x86_64平台的机器。
+* 本页面所下载的软件包仅适用于x86_64平台的机器。
 
 * 例如：各种x86、x64架构的软路由等。
 
-* 一系列离线包：
+* 一系列软件包：
 
-|插件名|功能|下载|
+|软件名|功能|下载|
 | :----: | :----: | :----: |
 | VSSR | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/VSSR_x86.run) |
 | ByPass | 科学上网 | [下载](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/x86/all/ByPass_x86.run) |

@@ -1,12 +1,10 @@
-#### iStore扩展插件包
+#### iStore .run 软件包
 
-* 本页面所下载的离线包插件适用于aarch64_cortex-a53平台的机器(EasePi ARS2、小米AX3600、AX9000、红米AX6等)。
+* 本页面所下载的软件包插件适用于aarch64_cortex-a53平台的机器(EasePi ARS2、小米AX3600、AX9000、红米AX6等)。
 
 * 也兼容aarch64_generic平台，例如R2S、R4S、R5S、R68S等。
 
-* aarch64_generic平台如果要兼容这些离线包，请使用iStoreOS固件，或者固件做了适配iStore。
-
-* 一系列离线包：
+* 一系列软件包：
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |

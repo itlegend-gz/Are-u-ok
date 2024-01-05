@@ -7,7 +7,5 @@
 
 #### 其它软件包 Other Packages
 
-* [aarch64_cortex-a53平台](./apps/README.md)
-
-* [x86_64平台](./x86/README.md)
+* [Packages](./packages/README.md)
 

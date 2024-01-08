@@ -7,5 +7,5 @@
 
 #### 其它软件包 Other Packages
 
-* [Packages](./packages/README.md)
+* [Packages](https://github.com/bcseputetto/Are-u-ok/blob/master/packages/README.md)
 

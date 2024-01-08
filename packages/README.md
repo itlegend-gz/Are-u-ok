@@ -7,7 +7,6 @@
 | AdGuardHome | [通用](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/packages/generic/adguardhome.run) | (DNS+广告过滤)luci-app-adguardhome_1.8-20221120 |2022-11-20|
 | ByPass | [x86_64](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/packages/x86_64/Bypass_1.2-77_x86_64_all_sdk_22.03.6.run) \| [aarch64_a53](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/packages/aarch64/Bypass_1.2-77_aarch64_a53_all_sdk_22.03.6.run) | (已停止维护的)梯子客户端 luci-app-bypass 1.2-77 |2024-01-05|
 | wrtbwmon | [通用](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/packages/generic/wrtbwmon_2.0.13.run) | (实时流量监控)luci-app-wrtbwmon 2.0.13 | 2023-10-30 |
-| ByPass | [x86_64](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/packages/x86_64/Bypass_1.2-77_x86_64_all_sdk_22.03.6.run) \| [aarch64_a53](https://raw.githubusercontent.com/bcseputetto/Are-u-ok/master/packages/aarch64/Bypass_1.2-77_aarch64_a53_all_sdk_22.03.6.run) | (已停止维护的)梯子客户端 luci-app-bypass 1.2-77 |2024-01-05|
 
 
 * 如何安装

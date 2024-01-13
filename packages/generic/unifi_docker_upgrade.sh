@@ -1,6 +1,6 @@
 #!/bin/sh
 DIRECTORY_PATH=$1
-docker pull lscr.io/linuxserver/unifi-network-application:latest
+docker pull linuxserver/unifi-network-application:latest
 docker stop unifi-network-application
 sleep 10
 docker rm unifi-network-application
@@ -30,4 +30,4 @@ docker run -d \
   -v $DIRECTORY_PATH/config:/config \
   --link unifi-db \
   --restart unless-stopped \
-  lscr.io/linuxserver/unifi-network-application:latest
+  linuxserver/unifi-network-application:latest

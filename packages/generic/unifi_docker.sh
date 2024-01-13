@@ -1,7 +1,7 @@
 #!/bin/sh
 DIRECTORY_PATH=$1
 docker pull mongo:4.4.27
-docker pull lscr.io/linuxserver/unifi-network-application:latest
+docker pull linuxserver/unifi-network-application:latest
 mkdir -p $DIRECTORY_PATH/mongo
 echo "db.getSiblingDB(\"unifi\").createUser({user: \"unifi\", pwd: \"unifi_istoreos\", roles: [{role: \"dbOwner\", db: \"unifi\"}]});" >> "$DIRECTORY_PATH/mongo/init-mongo.js"
 echo "db.getSiblingDB(\"unifi_stat\").createUser({user: \"unifi\", pwd: \"unifi_istoreos\", roles: [{role: \"dbOwner\", db: \"unifi_stat\"}]});" >> "$DIRECTORY_PATH/mongo/init-mongo.js"
@@ -39,4 +39,4 @@ docker run -d \
   -v $DIRECTORY_PATH/config:/config \
   --link unifi-db \
   --restart unless-stopped \
-  lscr.io/linuxserver/unifi-network-application:latest
+  linuxserver/unifi-network-application:latest

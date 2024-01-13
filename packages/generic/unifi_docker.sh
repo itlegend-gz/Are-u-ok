@@ -11,6 +11,7 @@ docker run -d \
   -e TZ=Asia/Shanghai \
   -v $DIRECTORY_PATH/mongo/data:/data/db \
   -v $DIRECTORY_PATH/mongo/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro \
+  --restart unless-stopped \
   mongo:4.4.27
 sleep 10
 docker run -d \

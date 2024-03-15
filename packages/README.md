@@ -10,6 +10,7 @@
 
 
 * 如何安装
+
 下载后，来到iStore应用商店页面，点击手动安装，点击选择上传或者直接拖放文件
 ![png](https://cdn.jsdelivr.net/gh/bcseputetto/Are-u-ok@master/packages/install.png)
 
